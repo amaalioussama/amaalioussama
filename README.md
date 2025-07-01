@@ -4,7 +4,7 @@
 <p><em>Software Engineering student at the Center of Excellence, University of Agadir.  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: amaali-oussama](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amaali-oussama/)]
+[![Linkedin:amaali-oussama](https://img.shields.io/badge/-amaalioussama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amaali-oussama/)]
 (https://www.linkedin.com/in/amaali-oussama/)
 [![GitHub amaalioussama](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/amaalioussama)
 
