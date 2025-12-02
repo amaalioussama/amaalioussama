@@ -1,7 +1,7 @@
 <h2> Hi, I'm Amaali Oussama !   
 </h2>
 <img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJvMjUwdzhqMWtvcTNsdzgxNXk3aWNiM28xdGN0ZzNiYm95YnRkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EFXGvbDPhLoWs/giphy.gif" width="230">
-<p><em>Software Engineering student at the Center of Excellence, University of Agadir.  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>data Engineering  at Ensiasd.  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![Linkedin:amaali-oussama](https://img.shields.io/badge/-amaalioussama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amaali-oussama/)]
