@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0f1e,50:0d1f3c,100:060910&height=280&section=header&text=Oussama%20Amaali&fontSize=72&fontColor=00D9FF&fontAlignY=55&desc=Data%20Science%20%26%20Artificial%20Intelligence%20Engineer&descAlignY=75&descColor=7B94B5&animation=fadeIn&stroke=00D9FF&strokeWidth=1" />
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0f1e,50:0d1f3c,100:060910&height=280&section=header&text=Oussama%20Amaali&fontSize=72&fontColor=00D9FF&fontAlignY=55&desc=Data%20Science%20%26%20Artificial%20Intelligence%20Engineer&descAlignY=75&descColor=7B94B5&animation=fadeIn&stroke=00D9FF&strokeWidth=1" />
 </div>
 
 <div align="center">
